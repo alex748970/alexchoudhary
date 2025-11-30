@@ -1,0 +1,46 @@
+RAJARAM
+rajaramraidas2@gmail.com 7489709954 Madhya Pradesh , India Rajaram Raidas
+Portfolio - https://alex748970.github.io/alexchoudhary.in/
+OBJECTIVE
+To obtain a challenging entry-level position in data engineer where I can apply my programming skills, analytical mindset, and
+academic knowledge to contribute to data-driven decision-making and grow as a professional in the tech industry.
+EDUCATION
+Shri Ram of Technology Institute Jabalpur (M.P)
+MCA ( Master of Computer Application) - 8.2 2023 – 2025
+Rajiv Gandhi University Jabalpur M.P
+Tavite Computer & Software Institute Katni
+BCA ( Bechelor of Computer Application) - 8.23 2020 – 2023
+Makhan Lal Chaturvedi University Bhopal
+SKILLS
+• Technical Skills: Python, SQL,, Excel,Power BI, Basic AWS.
+• Soft Skills: Time Management, Adaptability, Problem Solving.
+INTERNSHIP
+IT Solution Jabalpur
+Frontend Developer Intern Sept 2024 - FEB 20
+Zenoffi E Learning Labb
+Data Analysis Intern Jan 2025 -Jun 2025
+PROJECTS
+Sales Business Analysis
+Developed a Power BI using ,Python, and MySQL and Excel to Define sales Growth . Implemented Business
+At 4668, Tulika had the highest Sum of Amount and was 15,460.00% higher than Jaydeep, which had the lowest Sum 
+of Amount at 30Tulika had the highest Sum of Amount at 4668, followed by Abhijeet and Anurag. Jaydeep had the 
+lowest Sum of Amount at 30.Tulika accounted for 5.34% of Sum of Amount Madhya Pradesh had 87463 Sum of 
+Amount. 
+Hr. Data Analysis
+Built a. Imporved accuracy by leveraging deep learning for feature extraction and classification. Life Sciences accounted 
+for 37.55% of Sum of AttritionCount. At 163, Upto 5k had the highest Sum of AttritionCount and was 3,160.00% 
+higher than 15k+, which had the lowest Sum of AttritionCount at 5 , Across all 4 SalarySlab, Sum of AttritionCount 
+ranged from 5 to 163
+Air Quality Data Analysis
+Average of AQI trended down, resulting in a 78.86% decrease between January 2015 and July 2020. Average of AQI started 
+trending down on March 2019, falling by 57.04% (96.24) in 16 months. Average of AQI dropped from 343 to 298.16 during 
+its steepest decline between January 2015 and March 2015. At 73.02, Coimbatore had the highest Average of AQI and was 
+110.04% higher than Aizawl, which had the lowest Average of AQI at 34.77. Coimbatore had the highest Average of AQI 
+at 73.02, followed by Shillong at 53.80 and Aizawl at 34.77. Aizawl had 34.77 Average of AQI, Coimbatore had 73.02, 
+and Shillong had 53.80.
+CERTIFICATE
+Web Devlopment Course 
+Frontend Developer Intern
+(Sept 2024 - FEB 2025)
+Data Analyst Course
+Zenoffi E Learning Labb, Bengaluru ( Sept 2024 - Jun 2025 )
